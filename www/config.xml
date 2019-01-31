@@ -23,5 +23,5 @@
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
     </platform>
-    <icon src="/img/weatherlogo.png" height="57px" width="57px"></icon>
+<icon src="/img/wlogo.jpg"></icon>
 </widget>
